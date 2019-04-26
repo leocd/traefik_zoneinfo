@@ -22,4 +22,4 @@ COPY zoneinfo.zip /usr/local/go/lib/time/zoneinfo.zip
 
 参见：
 
-自定义镜像位置：
+自定义镜像位置：[fanfengqiang/traefik](https://hub.docker.com/r/fanfengqiang/traefik)
